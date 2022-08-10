@@ -1,0 +1,12 @@
+body {
+	background:url(re.jpg) no-repeat;
+	background-position: center;
+}
+@media print {
+	body{
+		content:url(re.jpg);
+	}
+}
+* {
+	-webkit-print-color-adjust: exact !important;
+	color-adjust: exact !important;
