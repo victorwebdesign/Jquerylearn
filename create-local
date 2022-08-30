@@ -1,0 +1,4 @@
+make a directory with mkdir name of directory
+
+git clone https://{secret access token}@github.com/{Git hub username}/{name of repository}.git
+
